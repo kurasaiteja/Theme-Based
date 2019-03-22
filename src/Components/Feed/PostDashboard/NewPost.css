@@ -1,0 +1,26 @@
+.align {
+	float:right;
+	display: block;
+	margin-right:0px;
+	margin-top: 50px;
+	clear:left;
+}
+
+.adjust {
+	top: 0;
+	position: fixed;
+	padding-bottom: 50px;
+	padding-top: 30px;
+	padding-left: 620px;
+}
+
+.tarea {
+	padding-left: 40px;
+	padding-right: 30px;
+	padding-top: 30px;
+}
+
+.heading{
+	padding-left: 50px;
+	padding-top: 30px;
+}
